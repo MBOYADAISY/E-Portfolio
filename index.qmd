@@ -17,10 +17,13 @@ about:
     - icon: envelope-at
       text: Email
       href: mailto:melser@student.ubc.ca
+bibliography: references.bib
 ---
 
-Hey there people,
+Hi,I am Daisy
 
 This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
 
 Write something about myself, very exciting.
+
+[@ecology2015]
